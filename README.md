@@ -1,7 +1,7 @@
 # Online-Chat
 
 Simples chat feito em python, onde é possivel:<br>
-  Criar um grupo de chat;<br>
-  Listar grupos;<br>
-  Conectar em um grupo;<br>
-  Enviar mensagens entre os grupos;
+  &nbsp;&nbsp;&nbsp;&nbsp;Criar um grupo de chat;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Listar grupos;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Conectar em um grupo;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Enviar mensagens entre os grupos;
